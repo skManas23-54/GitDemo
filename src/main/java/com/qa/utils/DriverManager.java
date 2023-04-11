@@ -7,5 +7,5 @@ public class DriverManager {
     public AppiumDriver getDriver() {
         return driver.get();
     }
-
+//this is clone from github
 }
